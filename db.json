@@ -1,372 +1,211 @@
 {
-  "Projects": [
-    {
-      "Project": {
-        "PID": 106829,
-        "ProjectType": "Intersection Improvement (Safety)",
-        "BeginConstructionDate": "2022-02-01",
-        "EndConstructionDate": "2023-01-16",
-        "Status": "Proposed",
-        "CommittedCost": 200000.0,
-        "Description": "Intersection safety improvement at intersection of Cook/Illinois/Mans Lucas",
-        "County": "Richland",
-        "OdotDistrict": 3,
-        "ProjectName": "RIC CR 0134 05.80 (Ck/Mans-Luc)",
-        "Location": "1000 feet each leg of the intersection"
-      }
-    },
-    {
-      "Project": {
-        "PID": 106538,
-        "ProjectType": "Bridge Preservation",
-        "BeginConstructionDate": "2023-08-01",
-        "EndConstructionDate": "2023-10-31",
-        "Status": "Proposed",
-        "CommittedCost": 737300.0,
-        "Description": "Replace bridge (SFN 4031105) on Byers-Winters Road.",
-        "County": "Jackson",
-        "OdotDistrict": 9,
-        "ProjectName": "JAC TR 973 0.08 Bridge Replace",
-        "Location": "JAC TR 973 0.08 (SFN 4031105)"
-      }
-    },
-    {
-      "Project": {
-        "PID": 106219,
-        "ProjectType": "Add Through Lane(s)",
-        "BeginConstructionDate": "2022-03-01",
-        "EndConstructionDate": "2023-03-01",
-        "Status": "In Development",
-        "CommittedCost": 750000.0,
-        "Description": "This project will widen the roadway to three lanes with curb, gutter, storm sewer, and sidewalks on both sides of the roadway.  This project will connect into the widening work that is planned on Factory Road as a part of the US 35 Superstreet improvement",
-        "County": "Greene",
-        "OdotDistrict": 8,
-        "ProjectName": "GRE TR 48 1.27 Factory Road",
-        "Location": "Factory Road from Creekside Trail to Nutter Park."
-      }
-    },
-    {
-      "Project": {
-        "PID": 102328,
-        "ProjectType": "Roadway Minor Rehab",
-        "BeginConstructionDate": "2021-10-01",
-        "EndConstructionDate": "2022-12-01",
-        "Status": "Proposed",
-        "CommittedCost": 1575000.0,
-        "Description": "Concrete pavement repair on MAH 80 from 0.00 to 0.54, MAH 711 from 0.37 to 2.05.  Includes minor maintenance and deck sealing to several structures and replacing 4 westbound overhead signs with new Legends (See project File) on MAH IR 80 leading to the Oh",
-        "County": "Mahoning",
-        "OdotDistrict": 4,
-        "ProjectName": "MAH 80/711 0.00/0.37",
-        "Location": "MAH 80 0.00 to 0.54, MAH 711 0.37 to 2.05"
-      }
-    },
-    {
-      "Project": {
-        "PID": 101384,
-        "ProjectType": "Vegetative Maintenance",
-        "BeginConstructionDate": "2020-07-01",
-        "EndConstructionDate": "2021-06-30",
-        "Status": "In Development",
-        "CommittedCost": 500000.0,
-        "Description": "Tree removal/pruning for District 8.",
-        "County": "Multiple Counties in District 8",
-        "OdotDistrict": 8,
-        "ProjectName": "D08 PR FY2021",
-        "Location": "District 8"
-      }
-    },
-    {
-      "Project": {
-        "PID": 102481,
-        "ProjectType": "Roadway Minor Rehab",
-        "BeginConstructionDate": "2022-05-01",
-        "EndConstructionDate": "2022-08-31",
-        "Status": "Proposed",
-        "CommittedCost": 645696.0,
-        "Description": "General System Resurfacing/Preventative Maintenance; Microsurfacing SR 516 from CR 73 (Winfield) to SR 39",
-        "County": "Tuscarawas",
-        "OdotDistrict": 11,
-        "ProjectName": "TUS SR 516 3.700",
-        "Location": "SR 516, 0.44 mi. E. of CR 73 to SR 39; SR 751, COS Co. Line to Stone Creek"
-      }
-    },
-    {
-      "Project": {
-        "PID": 102972,
-        "ProjectType": "Pavement Maintenance",
-        "BeginConstructionDate": "2021-08-01",
-        "EndConstructionDate": "2021-09-30",
-        "Status": "Proposed",
-        "CommittedCost": 3140000.0,
-        "Description": "Chip Seal",
-        "County": "Multiple Counties in District 3",
-        "OdotDistrict": 3,
-        "ProjectName": "D03 CHIP FY2022",
-        "Location": "Various routes and sections throughout District 3"
-      }
-    },
-    {
-      "Project": {
-        "PID": 106984,
-        "ProjectType": "Landscaping / Aesthetics",
-        "BeginConstructionDate": "2019-07-01",
-        "EndConstructionDate": "2019-11-01",
-        "Status": "Pre-Construction",
-        "CommittedCost": 85375.0,
-        "Description": "Using remaining earmark funds (OH411) to landscape the median along Reynolds Ave from Heatherdowns Ave intersection to in front of old Walmart. ( approx. 1600' )  NOTE: NHS waiver will be needed.",
-        "County": "Lucas",
-        "OdotDistrict": 2,
-        "ProjectName": "LUC Reynolds Rd Landscape",
-        "Location": "From Heatherdowns Ave to 1600' North of the intersection"
-      }
-    },
-    {
-      "Project": {
-        "PID": 108102,
-        "ProjectType": "Bridge Preservation",
-        "BeginConstructionDate": "2020-06-01",
-        "EndConstructionDate": "2020-09-30",
-        "Status": "In Development",
-        "CommittedCost": 825000.0,
-        "Description": "Patch bridge decks and seal with SRS or GFR",
-        "County": "Montgomery",
-        "OdotDistrict": 7,
-        "ProjectName": "MOT BH FY20 (B)",
-        "Location": "Various locations in Montgomery County"
-      }
-    },
-    {
-      "Project": {
-        "PID": 108598,
-        "ProjectType": "New Roadway",
-        "Status": "Proposed",
-        "CommittedCost": 485000.0,
-        "Description": "The CITY will construct a new access road from the existing curb cut on SR-235 E. Xenia Drive to the north approx. 766 linear feet and terminating in a cul-de-sac or other appropriate configuration.",
-        "County": "Greene",
-        "OdotDistrict": 8,
-        "ProjectName": "GRE-Ali Industries",
-        "Location": "City of Fairborn - Ali Industries"
-      }
-    },
-    {
-      "Project": {
-        "PID": 97988,
-        "ProjectType": "Bridge Preservation",
-        "BeginConstructionDate": "2020-07-01",
-        "EndConstructionDate": "2020-10-15",
-        "Status": "In Development",
-        "CommittedCost": 443525.0,
-        "Description": "Replace superstructure of single span steel beam bridge.",
-        "County": "Licking",
-        "OdotDistrict": 5,
-        "ProjectName": "LIC SR 79 19.90",
-        "Location": "0.02 miles South of TR257 (Swisher Rd)"
-      }
-    },
-    {
-      "Project": {
-        "PID": 107547,
-        "ProjectType": "Roadway Minor Rehab",
-        "BeginConstructionDate": "2022-05-01",
-        "EndConstructionDate": "2022-10-31",
-        "Status": "Proposed",
-        "CommittedCost": 696814.0,
-        "Description": "Preventative Maintenance; Microsurfacing",
-        "County": "Columbiana",
-        "OdotDistrict": 11,
-        "ProjectName": "COL SR 517 0.730",
-        "Location": "Lisbon. SR 164 to SR 7"
-      }
-    },
-    {
-      "Project": {
-        "PID": 108284,
-        "ProjectType": "Culvert Preservation",
-        "BeginConstructionDate": "2020-08-01",
-        "EndConstructionDate": "2020-10-31",
-        "Status": "In Development",
-        "CommittedCost": 306878.3,
-        "Description": "Emergency repair project. DSR# BRO-001",
-        "County": "Brown",
-        "OdotDistrict": 9,
-        "ProjectName": "BRO US 52 15.20 OH18-01",
-        "Location": "BRO 52 15.20"
-      }
-    },
-    {
-      "Project": {
-        "PID": 108312,
-        "ProjectType": "Guardrail / Roadside Maintenance",
-        "BeginConstructionDate": "2026-08-01",
-        "EndConstructionDate": "2026-10-15",
-        "Status": "Proposed",
-        "CommittedCost": 950810.5,
-        "Description": "This project is for FY 2027 Guardrail upgrade project.",
-        "County": "Multiple Counties in District 5",
-        "OdotDistrict": 5,
-        "ProjectName": "D05 Guardrail FY2027",
-        "Location": "District Wide"
-      }
-    },
-    {
-      "Project": {
-        "PID": 102942,
-        "ProjectType": "Bridge Preservation",
-        "BeginConstructionDate": "2022-04-01",
-        "EndConstructionDate": "2022-10-31",
-        "Status": "In Development",
-        "CommittedCost": 1183400.0,
-        "Description": "Replace 2 span concrete slab structure with a 4 sided closed cell prefabricated structure; perform necessary related work. Coordinate with PID 110490",
-        "County": "Lucas",
-        "OdotDistrict": 2,
-        "ProjectName": "LUC 20 13.70 Replacement",
-        "Location": "SR20 Structure over Heldman Ditch."
-      }
-    },
-    {
-      "Project": {
-        "PID": 107870,
-        "ProjectType": "Lighting (Safety)",
-        "BeginConstructionDate": "2023-09-01",
-        "EndConstructionDate": "2025-08-31",
-        "Status": "Proposed",
-        "CommittedCost": 3465640.0,
-        "Description": "2024 - 2025 Highway Lighting Maintenance Contract - 2 year in District 7 and 8",
-        "County": "Multiple Counties in District 8",
-        "OdotDistrict": 8,
-        "ProjectName": "D07/D08-LG-FY2024/FY2025",
-        "Location": "Various locations in D8"
-      }
-    },
-    {
-      "Project": {
-        "PID": 104619,
-        "ProjectType": "Roadway Minor Rehab",
-        "BeginConstructionDate": "2021-07-01",
-        "EndConstructionDate": "2021-12-01",
-        "Status": "In Development",
-        "CommittedCost": 2279500.0,
-        "Description": "Resurfacing East Market Street from Main St to the SR 82 Interchange in the City of Warren.  Includes signs and pavement markings as well as repairs to concrete curbs, sidewalks, driveway approaches and install new curb ramps where needed.",
-        "County": "Trumbull",
-        "OdotDistrict": 4,
-        "ProjectName": "TRU East Market St (Warren)",
-        "Location": "From Main Street to SR 82 On and Off Ramps"
-      }
-    },
-    {
-      "Project": {
-        "PID": 105676,
-        "ProjectType": "Roadway Minor Rehab",
-        "BeginConstructionDate": "2022-07-01",
-        "EndConstructionDate": "2022-10-01",
-        "Status": "Proposed",
-        "CommittedCost": 621310.0,
-        "Description": "Resurfacing a portion of SR 235 in Greene County. Project to coordinate with PID 100826 as the resurfacing is to take place after the bridge work is completed.",
-        "County": "Greene",
-        "OdotDistrict": 8,
-        "ProjectName": "GRE SR 235 9.29",
-        "Location": "GRE SR 235:  SLM 9.29 - 11.35"
-      }
-    },
-    {
-      "Project": {
-        "PID": 109827,
-        "ProjectType": "Traffic Control (Safety)",
-        "BeginConstructionDate": "2025-03-01",
-        "EndConstructionDate": "2025-07-01",
-        "Status": "Proposed",
-        "CommittedCost": 1000000.0,
-        "Description": "Pavement markings along various routes in Ashtabula, Mahoning and Trumbull Counties.",
-        "County": "Multiple Counties in District 4",
-        "OdotDistrict": 4,
-        "ProjectName": "D04 PM FY2025 (East)",
-        "Location": "ATB/MAH/TRU Counties"
-      }
-    },
-    {
-      "Project": {
-        "PID": 95816,
-        "ProjectType": "Roadway Minor Rehab",
-        "BeginConstructionDate": "2018-04-02",
-        "EndConstructionDate": "2018-11-01",
-        "Status": "Construction",
-        "CommittedCost": 1691375.25,
-        "Description": "An urban paving funded project to resurface Erie (NB) (SR-25) from Lafayette to Cherry (SR-120) and on Michigan/Spielbusch (SB) (SR-25D) from Cherry (SR-120) to Madison; perform necessary related work. NHS Waiver approval recieved.",
-        "County": "Lucas",
-        "OdotDistrict": 2,
-        "ProjectName": "LUC SR 25/25D 10.17/0.00 Urb Pav",
-        "Location": "on Erie (NB) (SR-25) from Lafayette to Cherry (SR-120); on Michigan/Spielbusch (SB) (SR-25D) from Cherry (SR-120) to Madison"
-      }
-    },
-    {
-      "Project": {
-        "PID": 109559,
-        "ProjectType": "Bridge Preservation",
-        "BeginConstructionDate": "2021-06-01",
-        "EndConstructionDate": "2021-10-15",
-        "Status": "In Development",
-        "CommittedCost": 714550.0,
-        "Description": "Replace existing bridge on Stoney Ridge Rd over Ditch 1873; Perform necessary related work.",
-        "County": "Wood",
-        "OdotDistrict": 2,
-        "ProjectName": "WOO CR 10B 001B Stony Ridge Rd X",
-        "Location": "over Ditch 1873"
-      }
-    },
-    {
-      "Project": {
-        "PID": 101160,
-        "ProjectType": "Roadway Minor Rehab",
-        "EndConstructionDate": "2023-01-02",
-        "Status": "Proposed",
-        "CommittedCost": 665000.0,
-        "Description": "Double micro",
-        "County": "Montgomery",
-        "OdotDistrict": 7,
-        "ProjectName": "MOT IR 75 13.11",
-        "Location": "MOT IR 75 SLM 13.11 to 14.66"
-      }
-    },
-    {
-      "Project": {
-        "PID": 108597,
-        "ProjectType": "Roadway Minor Rehab",
-        "Status": "Proposed",
-        "CommittedCost": 2062200.0,
-        "Description": "The CITY is reconstructing 4,400 feet of Carter Street, specifically from Cochran Road to Davis Industrial Parkway",
-        "County": "Cuyahoga",
-        "OdotDistrict": 12,
-        "ProjectName": "CUY-Great Lakes Cold Storage",
-        "Location": "CUY-Great Lakes Cold Storage"
-      }
-    },
-    {
-      "Project": {
-        "PID": 95404,
-        "ProjectType": "Traffic Control (Safety)",
-        "EndConstructionDate": "2020-07-01",
-        "Status": "Pre-Construction",
-        "CommittedCost": 2827320.75,
-        "Description": "MPO CMAQ Project: Upgrade and coordinate the traffic signals along Euclid Avenue in the City of East Cleveland.",
-        "County": "Cuyahoga",
-        "OdotDistrict": 12,
-        "ProjectName": "CUY EAST CLEVELAND SIGNALS",
-        "Location": "East Cleveland - city wide"
-      }
-    },
-    {
-      "Project": {
-        "PID": 93624,
-        "ProjectType": "Roadway Improvement (Safety)",
-        "EndConstructionDate": "2024-11-03",
-        "Status": "In Development",
-        "CommittedCost": 1000000.0,
-        "Description": "Lengthen turn lanes along US 33 Super 2.  Ath US 33 20.52-20.70, 23.16-23.34 and 26.19-26.37, all segments LT and RT.",
-        "County": "Athens",
-        "OdotDistrict": 10,
-        "ProjectName": "ATH US 33 20.52",
-        "Location": "Begin 0.12 mi. W of CR 21 (Pleasant Ridge Rd)."
-      }
-    }
-    ]
-    }
+	"Projects": [{
+			"Project": {
+				"PID": 106829,
+				"ProjectType": "Intersection Improvement (Safety)",
+				"BeginConstructionDate": "2022-02-01",
+				"EndConstructionDate": "2023-01-16",
+				"Status": "Proposed",
+				"CommittedCost": 200000.0,
+				"Description": "Intersection safety improvement at intersection of Cook/Illinois/Mans Lucas",
+				"County": "Richland",
+				"OdotDistrict": 3,
+				"ProjectName": "RIC CR 0134 05.80 (Ck/Mans-Luc)",
+				"Location": "1000 feet each leg of the intersection"
+			}
+		},
+		{
+			"Project": {
+				"PID": 106538,
+				"ProjectType": "Bridge Preservation",
+				"BeginConstructionDate": "2023-08-01",
+				"EndConstructionDate": "2023-10-31",
+				"Status": "Proposed",
+				"CommittedCost": 737300.0,
+				"Description": "Replace bridge (SFN 4031105) on Byers-Winters Road.",
+				"County": "Jackson",
+				"OdotDistrict": 9,
+				"ProjectName": "JAC TR 973 0.08 Bridge Replace",
+				"Location": "JAC TR 973 0.08 (SFN 4031105)"
+			}
+		},
+		{
+			"Project": {
+				"PID": 106219,
+				"ProjectType": "Add Through Lane(s)",
+				"BeginConstructionDate": "2022-03-01",
+				"EndConstructionDate": "2023-03-01",
+				"Status": "In Development",
+				"CommittedCost": 750000.0,
+				"Description": "This project will widen the roadway to three lanes with curb, gutter, storm sewer, and sidewalks on both sides of the roadway.  This project will connect into the widening work that is planned on Factory Road as a part of the US 35 Superstreet improvement",
+				"County": "Greene",
+				"OdotDistrict": 8,
+				"ProjectName": "GRE TR 48 1.27 Factory Road",
+				"Location": "Factory Road from Creekside Trail to Nutter Park."
+			}
+		},
+		{
+			"Project": {
+				"PID": 102328,
+				"ProjectType": "Roadway Minor Rehab",
+				"BeginConstructionDate": "2021-10-01",
+				"EndConstructionDate": "2022-12-01",
+				"Status": "Proposed",
+				"CommittedCost": 1575000.0,
+				"Description": "Concrete pavement repair on MAH 80 from 0.00 to 0.54, MAH 711 from 0.37 to 2.05.  Includes minor maintenance and deck sealing to several structures and replacing 4 westbound overhead signs with new Legends (See project File) on MAH IR 80 leading to the Oh",
+				"County": "Mahoning",
+				"OdotDistrict": 4,
+				"ProjectName": "MAH 80/711 0.00/0.37",
+				"Location": "MAH 80 0.00 to 0.54, MAH 711 0.37 to 2.05"
+			}
+		},
+		{
+			"Project": {
+				"PID": 102972,
+				"ProjectType": "Pavement Maintenance",
+				"BeginConstructionDate": "2021-08-01",
+				"EndConstructionDate": "2021-09-30",
+				"Status": "Proposed",
+				"CommittedCost": 3140000.0,
+				"Description": "Chip Seal",
+				"County": "Multiple Counties in District 3",
+				"OdotDistrict": 3,
+				"ProjectName": "D03 CHIP FY2022",
+				"Location": "Various routes and sections throughout District 3"
+			}
+		},
+		{
+			"Project": {
+				"PID": 106984,
+				"ProjectType": "Landscaping / Aesthetics",
+				"BeginConstructionDate": "2019-07-01",
+				"EndConstructionDate": "2019-11-01",
+				"Status": "Pre-Construction",
+				"CommittedCost": 85375.0,
+				"Description": "Using remaining earmark funds (OH411) to landscape the median along Reynolds Ave from Heatherdowns Ave intersection to in front of old Walmart. ( approx. 1600' )  NOTE: NHS waiver will be needed.",
+				"County": "Lucas",
+				"OdotDistrict": 2,
+				"ProjectName": "LUC Reynolds Rd Landscape",
+				"Location": "From Heatherdowns Ave to 1600' North of the intersection"
+			}
+		},
+		{
+			"Project": {
+				"PID": 108102,
+				"ProjectType": "Bridge Preservation",
+				"BeginConstructionDate": "2020-06-01",
+				"EndConstructionDate": "2020-09-30",
+				"Status": "In Development",
+				"CommittedCost": 825000.0,
+				"Description": "Patch bridge decks and seal with SRS or GFR",
+				"County": "Montgomery",
+				"OdotDistrict": 7,
+				"ProjectName": "MOT BH FY20 (B)",
+				"Location": "Various locations in Montgomery County"
+			}
+		},
+		{
+			"Project": {
+				"PID": 108598,
+				"ProjectType": "New Roadway",
+				"Status": "Proposed",
+				"CommittedCost": 485000.0,
+				"Description": "The CITY will construct a new access road from the existing curb cut on SR-235 E. Xenia Drive to the north approx. 766 linear feet and terminating in a cul-de-sac or other appropriate configuration.",
+				"County": "Greene",
+				"OdotDistrict": 8,
+				"ProjectName": "GRE-Ali Industries",
+				"Location": "City of Fairborn - Ali Industries"
+			}
+		},
+		{
+			"Project": {
+				"PID": 97988,
+				"ProjectType": "Bridge Preservation",
+				"BeginConstructionDate": "2020-07-01",
+				"EndConstructionDate": "2020-10-15",
+				"Status": "In Development",
+				"CommittedCost": 443525.0,
+				"Description": "Replace superstructure of single span steel beam bridge.",
+				"County": "Licking",
+				"OdotDistrict": 5,
+				"ProjectName": "LIC SR 79 19.90",
+				"Location": "0.02 miles South of TR257 (Swisher Rd)"
+			}
+		},
+		{
+			"Project": {
+				"PID": 107547,
+				"ProjectType": "Roadway Minor Rehab",
+				"BeginConstructionDate": "2022-05-01",
+				"EndConstructionDate": "2022-10-31",
+				"Status": "Proposed",
+				"CommittedCost": 696814.0,
+				"Description": "Preventative Maintenance; Microsurfacing",
+				"County": "Columbiana",
+				"OdotDistrict": 11,
+				"ProjectName": "COL SR 517 0.730",
+				"Location": "Lisbon. SR 164 to SR 7"
+			}
+		},
+		{
+			"Project": {
+				"PID": 108284,
+				"ProjectType": "Culvert Preservation",
+				"BeginConstructionDate": "2020-08-01",
+				"EndConstructionDate": "2020-10-31",
+				"Status": "In Development",
+				"CommittedCost": 306878.3,
+				"Description": "Emergency repair project. DSR# BRO-001",
+				"County": "Brown",
+				"OdotDistrict": 9,
+				"ProjectName": "BRO US 52 15.20 OH18-01",
+				"Location": "BRO 52 15.20"
+			}
+		},
+		{
+			"Project": {
+				"PID": 108312,
+				"ProjectType": "Guardrail / Roadside Maintenance",
+				"BeginConstructionDate": "2026-08-01",
+				"EndConstructionDate": "2026-10-15",
+				"Status": "Proposed",
+				"CommittedCost": 950810.5,
+				"Description": "This project is for FY 2027 Guardrail upgrade project.",
+				"County": "Multiple Counties in District 5",
+				"OdotDistrict": 5,
+				"ProjectName": "D05 Guardrail FY2027",
+				"Location": "District Wide"
+			}
+		},
+		{
+			"Project": {
+				"PID": 102942,
+				"ProjectType": "Bridge Preservation",
+				"BeginConstructionDate": "2022-04-01",
+				"EndConstructionDate": "2022-10-31",
+				"Status": "In Development",
+				"CommittedCost": 1183400.0,
+				"Description": "Replace 2 span concrete slab structure with a 4 sided closed cell prefabricated structure; perform necessary related work. Coordinate with PID 110490",
+				"County": "Lucas",
+				"OdotDistrict": 2,
+				"ProjectName": "LUC 20 13.70 Replacement",
+				"Location": "SR20 Structure over Heldman Ditch."
+			}
+		},
+		{
+			"Project": {
+				"PID": 107870,
+				"ProjectType": "Lighting (Safety)",
+				"BeginConstructionDate": "2023-09-01",
+				"EndConstructionDate": "2025-08-31",
+				"Status": "Proposed",
+				"CommittedCost": 3465640.0,
+				"Description": "2024 - 2025 Highway Lighting Maintenance Contract - 2 year in District 7 and 8",
+				"County": "Multiple Counties in District 8",
+				"OdotDistrict": 8,
+				"ProjectName": "D07/D08-LG-FY2024/FY2025",
+				"Location": "Various locations in D8"
+			}
+		}
+	]
+}
